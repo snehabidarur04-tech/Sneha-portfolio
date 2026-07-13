@@ -244,8 +244,4 @@ GitHub:
 ## 📄 License
 
 This project is created for learning, portfolio, and educational purposes.
-
-```
-
-You can directly save this as **`README.md`** in your GitHub portfolio repository.
 ```
