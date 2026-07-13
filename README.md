@@ -1,7 +1,7 @@
 # Sneha-portfolio
 
 ```md
-# 🌐 Sneha Somnath Bidarur - Personal Portfolio Website
+# 🌐 Sneha Somnath Bidarur - Personal Portfolio 
 
 A responsive personal portfolio website created to showcase my skills, education, projects, certifications, internship experience, and professional profile as a **Full Stack Developer**.
 
